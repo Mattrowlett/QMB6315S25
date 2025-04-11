@@ -4,9 +4,9 @@
 #
 # QMB 6315: Python for Business Analytics
 #
-# Name:
+# Name:Matthew Rowlett
 #
-# Date:
+# Date:04/10/2025
 #
 ##################################################
 #
