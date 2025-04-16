@@ -218,6 +218,10 @@ countries = [("Eastern Asia", "China", 1285238),
              ("North America", "Mexico", 126875), 
              ("North America", "United States", 493038)]
 
+for c in countries:
+    print(c)
+
+
 # Now loop through those entries and INSERT the VALUES.
 for c in countries:
     cur.execute('INSERT INTO PopByCountry VALUES (?, ?, ?)', (c[0], c[1],
