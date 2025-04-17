@@ -6,10 +6,7 @@
 # 
 # Using Databases with SQLite3
 # 
-# Lealand Morin, Ph.D.
-# Assistant Professor
-# Department of Economics
-# College of Business Administration
+# Matt Rowlett
 # University of Central Florida
 # 
 # April 12, 2025
